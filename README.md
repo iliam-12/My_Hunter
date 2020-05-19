@@ -4,5 +4,6 @@ PDF available
 ___For this project, i remind you that is necessary to have libsfml.___
 ### Usage:
     make re && ./my_hunter
+
 ## What does my game looks like :
-![hunter](https://user-images.githubusercontent.com/65111947/82338169-da2dfd00-99ec-11ea-8690-3c9eb3c23b3c.gif)
+![hunter (online-video-cutter com)](https://user-images.githubusercontent.com/65111947/82339227-1877ec00-99ee-11ea-928d-401f0ae53eb4.gif)

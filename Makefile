@@ -1,4 +1,4 @@
-NAME	= program
+NAME	= my_hunter
 
 CC	= gcc
 
